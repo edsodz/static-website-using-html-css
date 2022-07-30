@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edson Sooraj Dsouza</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="favicon.ico?v=2">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="top-container">
+        <img class="top-cloud" src="images/cloud.png" alt="cloud_image">
+        <h1>I'm Edson</h1>
+        <h2>a programmer,</h2>
+        <img class = "bottom-cloud" src="images/cloud.png" alt="cloud-image">
+        <img src="images/mountain.png" alt="mountain-image">
+
+        
+    </div>
+    <div class="middle-container">
+        <div class="profile">
+          <img src="images/Edson.png" alt="Edson's-image">
+          <h2>Hello.</h2>
+          <p class="intro">I welcome you to my personal website. My name is Edson Sooraj Dsouza. I am currently working as a full-stack web developer at startup.com</p>
+        </div>
+        <hr>
+        <div class="skills">
+          <h2>My Skills.</h2>
+          <div class="skill-row">
+            <img class="image" src="https://media.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif" alt="random-image">
+            <h3>A master in python programming</h3>
+            <p>Considered one of the elite python coder around the world!</p>
+          </div>
+          <div class="skill-row">
+            <img class="skill-image" src="https://cdn-icons.flaticon.com/png/512/1207/premium/1207390.png?token=exp=1656220221~hmac=39f36e6d323562f629a9926fe36329b2" alt="random-image">
+            <h3>Working as a developer</h3>
+            <p>Currently working as a full-stack web developer at startup.com</p>
+          </div>
+        </div>
+        <hr>
+        <div class="contact-me">
+          <h2>Get In Touch</h2>
+          <h3>Want to know more about me and my works?.</h3>
+          <p class="contact-message">Then do get in touch with me via email!</p>
+          <a class="btn" href="edsonsoorajdsouza@gmail.com">CONTACT ME</a>
+        </div>
+      </div>
+      
+      
+      <div class="bottom-container">
+        <a class="footer-link" href="https://www.linkedin.com/in/edson-sooraj-dsouza-7b110a241/">LinkedIn</a>
+        <a class="footer-link" href="https://twitter.com/EdsonDsouza">Twitter</a>
+        <a class="footer-link" href="https://www.facebook.com/edsonsooraj.dsouza.3">Facebook</a>
+        <p class="copywrite">© 2022 Edson Sooraj Dsouza @startup.com</p>
+      </div>
+      
+</body>
+</html>

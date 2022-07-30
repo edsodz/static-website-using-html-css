@@ -1,0 +1,11 @@
+Introduction:
+    Hai, My name is Edson Sooraj Dsouza, a 2nd-year student of the CSE branch of MVJCE; I welcome you to my space. 
+
+About my project:
+    -> The domain of the project I created is Web Development where I tried to build a website using only HTML and CSS. 
+    -> The name of my project is  "CSS-My Site"
+    -> I tried to build the website by following the following Udemy Course https://bit.ly/3cmTJgR
+   
+Note: 
+    The pieces of information that I provided inside the website are **FAKE** (The pieces of information were used only
+    create the website)
